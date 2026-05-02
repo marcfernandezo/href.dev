@@ -1,7 +1,11 @@
 {
-  "name": "href.dev",
+  "name": "@marcfernandezo/href.dev",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Marc Fernandez O.",
+    "email": "hello@marcfernandez.me"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
